@@ -1,0 +1,9 @@
+Libraries included in project
+- numpy
+- pandas
+- re for regex
+- requests
+- BeautifulSoup
+- matplotlib
+- seaborn
+- jupyter

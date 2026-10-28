@@ -1,0 +1,721 @@
+Brand,Model,RAM,Storage,Operating_System,Processor,Display_Size,Price,Rating
+Samsung,Galaxy Book4 Metal,16,512,Windows 11 Home,Intel Core i5,15.6,64990,4.4
+Samsung,Galaxy Book4 Edge Series,16,512,NaN,Snapdragon X,15.6,71990,4.4
+ASUS,TUF Gaming A15,16,512,Windows 11 Home,AMD Ryzen 7,15.6,92990,4.4
+HP,Victus,16,512,Windows 11 Home,Intel Core i5,15.6,92990,4.3
+Lenovo,100e Chromebook Gen 4,4,NaN,Chrome OS,MediaTek Kompanio 520,11.6,18490,4
+Acer,Aspire 14,16,512,Windows 11 Home,Snapdragon X,14,56990,4.4
+Samsung,Galaxy Book4 Metal,16,512,Windows 11 Home,Intel Core i5,15.6,64990,4.4
+Acer,Chromebook,4,NaN,Chrome OS,MediaTek MediaTek Kompanio 540,15.6,26990,NaN
+Acer,Aspire 3,8,512,Windows 11 Home,Intel Celeron Dual Core,11.6,30990,3.7
+DELL,DELL 15,8,512,Windows 11 Home,AMD Ryzen 5 Quad Core,15.6,57990,4.2
+ASUS,Vivobook S16,16,512,NaN,Snapdragon X,16,72990,4.5
+ASUS,Vivobook 14,16,512,NaN,Snapdragon X,14,60990,4.4
+Primebook,Primebook 2 Pro,8,NaN,Android 15,MediaTek Helio G99 (MT8781),14.1,28490,4.3
+Apple,MacBook Air,16,512,Tahoe,Apple M5,13.6,133990,4.7
+MSI,Modern 14,8,512,Windows 11 Home,AMD Ryzen 5 Hexa Core,14,49990,4.3
+HP,HP 15,24,512,Windows 11 Home,Intel Core 5,15.6,77990,4.1
+HP,Omnibook 3,16,512,Windows 11 Home,Snapdragon X,14,72990,4.3
+HP,Omnibook 3,8,512,Windows 11 Home,Snapdragon X,14,63990,4.3
+HP,HP 15,8,512,NaN,Intel Core 3,15.6,50990,4.2
+Acer,Aspire 14,8,256,Windows 11 Home,AMD Ryzen 3,14,36990,4.1
+ASUS,TUF Gaming A15,16,512,Windows 11 Home,AMD Ryzen 7,15.6,92990,4.4
+HP,HP 15,24,512,Windows 11 Home,Intel Core 5,15.6,77990,4.1
+Acer,NaN,8,256,Windows 11 Home,AMD Ryzen 3,14,34990,4.1
+Acer,Aspire Lite,8,512,Windows 11 Home,AMD Ryzen 3 Quad Core,15.6,42990,4.1
+ASUS,ExpertBook P1,16,512,Windows 11 Home,Intel Core 5,14,72990,4.4
+HP,HP 15,8,256,Windows 11 Home,AMD Athlon Dual Core,15.6,47490,3.9
+Samsung,Galaxy Book4 Metal,16,512,Windows 11 Home,Intel Core i5,15.6,64990,4.4
+Acer,Aspire 14,16,512,Windows 11 Home,Snapdragon X,14,56990,4.4
+Acer,Aspire 3,8,256,Windows 11 Home,Intel Core 3,14,37990,4.2
+HP,Omnibook 3,16,512,Windows 11 Home,Snapdragon X,14,72990,4.3
+ASUS,Vivobook S16,16,512,NaN,Snapdragon X,16,72990,4.5
+ASUS,Vivobook 14,16,512,NaN,Snapdragon X,14,60990,4.4
+Acer,Swift Neo,8,512,Windows 11 Home,Intel Core Ultra 5,14,59990,4.1
+Samsung,Galaxy Book5 AI,16,512,Windows 11 Home,Intel Core Ultra 7,15.6,82990,4.5
+Acer,Aspire 15,16,512,Windows 11 Home,AMD Ryzen 7 Octa Core,15.6,57990,4.1
+Acer,Aspire,8,256,Windows 11 Home,AMD Ryzen 5,15.6,39990,4
+HP,Omnibook 3,16,512,Windows 11 Home,Snapdragon X,14,72990,4.3
+Samsung,Galaxy Book4 Edge Series,16,512,NaN,Snapdragon X,15.6,71990,4.4
+HP,HP 14,16,512,Windows 11 Home,Intel Core Ultra 7,14,79990,4
+ASUS,ExpertBook P1,8,512,Windows 11 Home,Intel Core 3,15.6,50990,4.4
+HP,HP 15,24,512,Windows 11 Home,Intel Core 5,15.6,77990,4.1
+HP,Omnibook 3,8,512,Windows 11 Home,Snapdragon X,14,63990,4.3
+Acer,Swift Neo,16,512,Windows 11 Home,Intel Core Ultra 5,14,71990,4.2
+ASUS,Vivobook 15,8,512,Windows 11 Home,Intel Core 5,15.6,59990,4.2
+Acer,Aspire 3,8,512,Windows 11 Home,Intel Core i3,14,42990,4.3
+Acer,Aspire Lite,8,512,Windows 11 Home,AMD Ryzen 3,15.6,42990,4.1
+ASUS,TUF Gaming A15,16,512,Windows 11 Home,AMD Ryzen 7,15.6,92990,4.4
+ASUS,Vivobook S16,16,512,NaN,Snapdragon X,16,72990,4.5
+Acer,Aspire Lite,8,256,Windows 11 Home,AMD Ryzen 3,15.6,39990,4.1
+ASUS,ExpertBook P1,16,512,Windows 11 Home,Intel Core 3,15.6,62990,4.7
+Samsung,Galaxy Book4 Metal,16,512,Windows 11 Home,Intel Core i5,15.6,64990,4.4
+Acer,Aspire 14,16,512,Windows 11 Home,Snapdragon X,14,56990,4.4
+Acer,Swift Neo,16,512,Windows 11 Home,Intel Core Ultra 5,14,75990,4.2
+Samsung,Galaxy Book4 Metal,16,512,Windows 11 Home,Intel Core i7,15.6,74990,4.4
+Acer,Aspire 3,8,512,Windows 11,Intel Core Ultra 5,15.6,54990,4.1
+Acer,Swift Neo,16,512,Windows 11 Home,Intel Core Ultra 5,14,69990,4.1
+ASUS,Vivobook S16,16,512,NaN,Snapdragon X,16,72990,4.5
+ASUS,Vivobook 14,16,512,NaN,Snapdragon X,14,60990,4.4
+ASUS,Vivobook Go 15,8,256,NaN,AMD Ryzen 3 Quad Core,15.6,48990,3.8
+Acer,NaN,8,512,Windows 11 Home,AMD Ryzen 3 Octa Core,14,44490,4.6
+HP,Omnibook 3,16,512,Windows 11 Home,Snapdragon X,14,72990,4.3
+Samsung,Galaxy Book4 Edge Series,16,512,NaN,Snapdragon X,15.6,71990,4.4
+Acer,Aspire 3,8,512,Windows 11 Home,Intel Celeron Dual Core,11.6,46999,3.5
+HP,NaN,16,512,Windows 11 Home,Intel Core i7,14,86990,4.1
+Acer,Aspire 3,16,512,Windows 11,Intel Core Ultra 5,15.6,59990,4.1
+Acer,NaN,8,512,Windows 11 Home,Intel Core i5,14,57990,4.7
+HP,HP 15,24,512,Windows 11 Home,Intel Core 5,15.6,77990,4.1
+HP,Omnibook 3,8,512,Windows 11 Home,Snapdragon X,14,63990,4.3
+HP,NaN,8,512,Windows 11 Home,Intel Core i3,15.6,55890,4.2
+HP,HP 14,16,1024,Windows 11 Home,Intel Core Ultra 7,14,90990,4
+ASUS,TUF Gaming A15,16,512,Windows 11 Home,AMD Ryzen 7,15.6,92990,4.4
+ASUS,Vivobook S16,16,512,NaN,Snapdragon X,16,72990,4.5
+ASUS,TUF Gaming F16,16,512,Windows 11 Home,Intel Core 5,16,104990,4.5
+Acer,Aspire 3,8,512,Windows 11 Home,Intel Core 3,14,46990,4.2
+MOTOROLA,Motobook 60,16,512,NaN,Intel Core 5,14,74990,4.4
+Acer,Aspire Lite,8,512,Windows 11 Home,Intel Core 3,15.6,46990,4.2
+Samsung,Galaxy Book4 Metal,16,512,Windows 11 Home,Intel Core i5,15.6,64990,4.4
+Acer,Aspire 14,16,512,Windows 11 Home,Snapdragon X,14,56990,4.4
+Acer,Aspire 7,16,512,Windows 11 Home,Intel Core 5,15.6,88400,4.3
+Samsung,Galaxy Book4 Edge Series,16,512,NaN,Snapdragon X,15.6,71990,4.4
+ASUS,Vivobook S16,16,512,NaN,Snapdragon X,16,72990,4.5
+ASUS,Vivobook 14,16,512,NaN,Snapdragon X,14,60990,4.4
+Acer,Aspire 14,16,512,Windows 11 Home,Intel Core 7,14,70990,4.1
+Acer,Aspire 5,16,512,NaN,Intel Core Ultra 5,14,67990,4.5
+Acer,Chromebook,4,NaN,Chrome OS,MediaTek MediaTek Kompanio 540,15.6,24990,3.5
+Acer,NaN,16,1024,Windows 11 Home,Intel Core i5,16,134990,4.4
+Samsung,Galaxy Book4 Edge Series,16,512,NaN,Snapdragon X,15.6,71990,4.4
+HP,Omnibook 3,16,512,Windows 11 Home,Snapdragon X,14,72990,4.3
+ASUS,TUF Gaming A16,16,512,Windows 11 Home,AMD Ryzen 7,16,159990,4.6
+Acer,Aspire 3,12,512,Windows 11 Home,Intel Celeron Dual Core,15.6,40599,3.8
+HP,Omnibook 3,8,512,Windows 11 Home,Snapdragon X,14,63990,4.3
+HP,HP 15,24,512,Windows 11 Home,Intel Core 5,15.6,77990,4.1
+ASUS,Vivobook 16,8,256,Windows 11 Home,Snapdragon X,16,59990,4.7
+ASUS,Vivobook 16,8,512,Windows 11 Home,AMD Ryzen 7,16,69990,4.4
+Acer,Swift Neo,16,512,Windows 11 Home,Intel Core Ultra 7,14,76990,4.3
+MOTOROLA,Motobook 60 Pro,16,512,NaN,Intel Core Ultra 5,14,79990,4.5
+Samsung,Galaxy Book4 Metal,16,512,Windows 11 Home,Intel Core i5,15.6,64990,4.4
+Acer,Aspire 14,16,512,Windows 11 Home,Snapdragon X,14,56990,4.4
+Primebook,Primebook 2 Max,8,NaN,Android 15,MediaTek Helio G99 (MT8781),15.6,27990,4.1
+ASUS,Vivobook 15,16,512,Windows 11 Home,Intel Core 5,15.6,76990,4.2
+ASUS,Vivobook S16,16,512,NaN,Snapdragon X,16,72990,4.5
+ASUS,Vivobook 14,16,512,NaN,Snapdragon X,14,60990,4.4
+HP,Victus,24,512,Windows 11 Home,Intel Core 5,15.6,116990,4.1
+DELL,DELL 15,16,512,Windows 11 Home,Intel Core i5,15.6,71763,4.2
+ASUS,Vivobook S16,16,512,NaN,AMD Ryzen 5,16,76990,4.4
+MOTOROLA,Motobook 60,16,512,NaN,Intel Core 5,14,74990,4.4
+ASUS,ExpertBook P1,8,512,Windows 11 Home,Intel Core 3,15.6,50990,4.4
+HP,Omnibook 3,16,512,Windows 11 Home,Snapdragon X,14,72990,4.3
+Lenovo,IdeaPad Slim 3,16,1024,Windows 11 Home,Snapdragon X,15.3,74790,4.2
+MOTOROLA,Motobook 60 Pro,16,512,NaN,Intel Core Ultra 5,14,79990,4.5
+Samsung,Galaxy Book4 Edge Series,16,512,NaN,Snapdragon X,15.6,71990,4.4
+HP,HP 15,24,512,Windows 11 Home,Intel Core 5,15.6,77990,4.1
+Acer,Aspire 3,8,512,Windows 11 Home,AMD Ryzen 3 Quad Core,15.6,45990,4.1
+HP,HP 15,16,512,Windows 11 Home,AMD Ryzen 7 Octa Core,15.6,76990,4.5
+ASUS,Vivobook S14,16,512,NaN,AMD Ryzen 5,14,74990,4.4
+MSI,Katana 15,16,1024,Windows 11 Home,Intel Core i5,15.6,96990,4.3
+ASUS,TUF Gaming A15,16,512,Windows 11 Home,AMD Ryzen 7,15.6,92990,4.4
+MSI,Modern 14,8,512,Windows 11 Home,AMD Ryzen 5 Hexa Core,14,49990,4.3
+ASUS,ExpertBook P3,16,512,Windows 11,Intel Core Ultra 7,16,120000,4.4
+Lenovo,IdeaPad Slim 3,16,512,Windows 11 Home,Intel Core i5,15.3,77990,4.3
+Samsung,Galaxy Book4 Metal,16,512,Windows 11 Home,Intel Core i5,15.6,64990,4.4
+Acer,Aspire 14,16,512,Windows 11 Home,Snapdragon X,14,56990,4.4
+HP,Omnibook 3,12,512,Windows 11 Home,Intel Core 5,14,89990,4.4
+Acer,NaN,8,512,Windows 11 Home,Intel Core i5,14,57990,4.7
+ASUS,TUF Gaming F16,16,512,NaN,Intel Core 5,16,129990,4.5
+Lenovo,IdeaPad Slim 3,8,512,Windows 11 Home,AMD Ryzen 3 Quad Core,15.6,50990,4.5
+ASUS,Vivobook S16,16,512,NaN,Snapdragon X,16,72990,4.5
+ASUS,Vivobook 14,16,512,NaN,Snapdragon X,14,60990,4.4
+Acer,Chromebook,4,NaN,Chrome OS,MediaTek MediaTek Kompanio 540,15.6,26990,NaN
+Lenovo,NaN,16,512,Windows 11,Intel Core Ultra 5,14,104990,4.5
+ASUS,ExpertBook P1,8,512,Windows 11 Home,Intel Core 3,15.6,50990,4.4
+Samsung,Galaxy Book4 Edge Series,16,512,NaN,Snapdragon X,15.6,71990,4.4
+Acer,Aspire 3,8,256,Windows 11 Home,Intel Celeron Dual Core,11.6,26990,3.7
+ASUS,ExpertBook P1,16,512,Windows 11 Home,Intel Core 3,15.6,62990,4.7
+ASUS,Vivobook 16,16,512,NaN,AMD Ryzen AI 7 Hexa Core,16,86990,4.4
+HP,Omnibook 3,8,512,Windows 11 Home,Snapdragon X,14,63990,4.3
+HP,Omnibook 3,16,512,Windows 11 Home,Snapdragon X,14,72990,4.3
+MSI,Modern 14,8,512,Windows 11 Home,AMD Ryzen 5 Hexa Core,14,49990,4.3
+Lenovo,LOQ,16,512,Windows 11 Home,AMD Ryzen 7 Octa Core,15.6,159990,4.5
+ASUS,Vivobook 15,8,512,Windows 11 Home,Intel Core 5,15.6,59990,4.2
+ASUS,TUF Gaming A15,16,512,Windows 11 Home,AMD Ryzen 7,15.6,92990,4.4
+HP,HP 15,24,512,Windows 11 Home,Intel Core 5,15.6,77990,4.1
+ASUS,ROG Strix,16,1024,NaN,AMD Ryzen 9 16 Core,16,279990,4.6
+Lenovo,LOQ,16,512,Windows 11 Home,Intel Core i7,15.6,159990,4.3
+DELL,Inspiron 5440,8,512,Windows 11 Home,Intel Core 3,14,54490,4.2
+ASUS,Vivobook Go 15,16,512,NaN,AMD Ryzen 3 Quad Core,15.6,62990,4.3
+Samsung,Galaxy Book4 Metal,16,512,Windows 11 Home,Intel Core i5,15.6,64990,4.4
+Acer,Aspire 14,16,512,Windows 11 Home,Snapdragon X,14,56990,4.4
+Lenovo,NaN,16,512,Windows 11 Home,AMD Ryzen 7 Octa Core,15.6,114990,4.2
+ASUS,ExpertBook P1,16,512,Windows 11 Home,Intel Core 3,15.6,62990,4.7
+ASUS,Vivobook S16,16,512,NaN,Snapdragon X,16,72990,4.5
+ASUS,Vivobook 14,16,512,NaN,Snapdragon X,14,60990,4.4
+ASUS,Vivobook 15,16,512,NaN,Intel Core 3,15.6,59990,4.3
+ASUS,Vivobook S16,16,512,Windows 11 Home,AMD Ryzen 7,16,84990,4.6
+DELL,Alienware 15,16,512,Windows 11 Home,AMD Ryzen 7,15.3,130990,4.1
+MSI,Modern 14,8,512,Windows 11 Home,AMD Ryzen 5 Hexa Core,14,42799,4.4
+HP,Omnibook 3,16,512,Windows 11 Home,Snapdragon X,14,72990,4.3
+Samsung,Galaxy Book4 Edge Series,16,512,NaN,Snapdragon X,15.6,71990,4.4
+Lenovo,IdeaPad Slim 5,16,512,Windows 11 Home,Intel Core Ultra 9,14,119990,4.1
+ASUS,TUF Gaming A14,32,1024,NaN,AMD Ryzen AI Max+,14,214990,4.5
+HP,HP 15,24,512,Windows 11 Home,Intel Core 5,15.6,77990,4.1
+HP,Omnibook 3,8,512,Windows 11 Home,Snapdragon X,14,63990,4.3
+ASUS,Vivobook 16,8,512,Windows 11 Home,AMD Ryzen 7,16,69990,4.4
+Acer,Aspire 7,16,512,Windows 11 Home,Intel Core 7,15.6,84990,4.2
+Apple,MacBook Air,16,512,Tahoe,Apple M5,15.3,179900,4.8
+ASUS,Vivobook S16,16,512,NaN,Snapdragon X,16,72990,4.5
+ASUS,TUF Gaming A15,16,512,Windows 11 Home,AMD Ryzen 7,15.6,92990,4.4
+ASUS,Vivobook S16,16,512,NaN,Snapdragon X,16,72990,4.5
+ASUS,Vivobook Go 15,16,512,Windows 1,AMD Ryzen 5,15.6,71990,4.5
+ASUS,Vivobook 16,16,512,Windows 11 Home,Intel Core Ultra 5,16,88990,5
+Samsung,Galaxy Book4 Metal,16,512,Windows 11 Home,Intel Core i5,15.6,64990,4.4
+Acer,Aspire 14,16,512,Windows 11 Home,Snapdragon X,14,56990,4.4
+Acer,NaN,16,1024,Windows 11 Home,Intel Core i5,16,144990,4.4
+Acer,Aspire Lite,8,256,Windows 11 Home,AMD Ryzen 3,15.6,39990,4.1
+ASUS,TUF Gaming F16,16,512,Windows 11 Home,Intel Core i5,16,159990,4.6
+DELL,Alienware 16,16,1024,NaN,Intel Core 7,NaN,157990,4.4
+ASUS,Vivobook S16,16,512,NaN,Snapdragon X,16,72990,4.5
+ASUS,Vivobook 14,16,512,NaN,Snapdragon X,14,60990,4.4
+ASUS,Vivobook S16,16,512,NaN,Snapdragon X,16,77939,4.5
+ASUS,Vivobook 15,16,512,Windows 11 Home,Intel Core 5,15.6,76990,4.2
+ASUS,ExpertBook P1,8,512,Windows 11 Home,Intel Core 3,15.6,50990,4.4
+HP,Omnibook 3,16,512,Windows 11 Home,Snapdragon X,14,72990,4.3
+Lenovo,100e Chromebook Gen 4,4,NaN,Chrome OS,MediaTek MediaTek Kompanio 528,11.6,21990,3.9
+Lenovo,NaN,16,512,Windows 11 Home,AMD Ryzen 7 Octa Core,15.6,99990,4.1
+ASUS,Vivobook Go 15,8,512,NaN,AMD Ryzen 3 Quad Core,15.6,52990,4.3
+ASUS,Vivobook S14,16,512,NaN,Intel Core Ultra 7,14,103990,4.3
+Samsung,Galaxy Book4 Edge Series,16,512,NaN,Snapdragon X,15.6,71990,4.4
+ASUS,TUF Gaming A15,16,512,Windows 11 Home,AMD Ryzen 7,15.6,92990,4.4
+HP,HP 15,16,512,NaN,AMD Ryzen 7 Octa Core,15.6,71640,4.1
+ASUS,Vivobook 15,16,512,NaN,AMD Ryzen 5 Hexa Core,15.6,72990,4.5
+HP,HP 15,24,512,Windows 11 Home,Intel Core 5,15.6,77990,4.1
+MSI,Modern 14,8,512,Windows 11 Home,AMD Ryzen 5 Hexa Core,14,49990,4.3
+Acer,Aspire Lite,16,512,Windows 11 Home,AMD Ryzen 3 Quad Core,15.6,56099,4.1
+Acer,NaN,8,512,Windows 11 Home,AMD Ryzen 3 Octa Core,14,46990,4.1
+ASUS,TUF Gaming A14,32,1024,NaN,AMD Ryzen AI Max+,14,214990,4.5
+Apple,MacBook Air,24,1024,Tahoe,Apple M5,15.3,239900,4.8
+Samsung,Galaxy Book4 Metal,16,512,Windows 11 Home,Intel Core i5,15.6,64990,4.4
+Acer,Aspire 14,16,512,Windows 11 Home,Snapdragon X,14,56990,4.4
+Acer,NaN,16,1024,Windows 11 Home,Intel Core i7,16,144990,4.2
+ASUS,Vivobook 14,8,512,Windows 11 Home,Intel Core 5,14,66990,4.8
+ASUS,Vivobook S16,16,512,NaN,Snapdragon X,16,72990,4.5
+ASUS,Vivobook 14,16,512,NaN,Snapdragon X,14,60990,4.4
+ASUS,Vivobook,16,512,Windows 11 Home,Intel Core 5,14,79990,4.3
+Samsung,Galaxy Book6,16,512,Windows 11 Home,Intel Core Ultra 5,16,168299,5
+Apple,MacBook Air,24,1024,Tahoe,Apple M5,15.3,239900,4.8
+Acer,Aspire 14,8,512,Windows 11 Home,AMD Ryzen 5,14,40990,3.9
+HP,Omnibook 3,16,512,Windows 11 Home,Snapdragon X,14,72990,4.3
+Samsung,Galaxy Book4 Edge Series,16,512,NaN,Snapdragon X,15.6,71990,4.4
+Acer,Aspire 14,8,256,Windows 11 Home,AMD Ryzen 5,14,37990,3.9
+Acer,Aspire,8,256,Windows 11 Home,AMD Ryzen 5,15.6,39990,4
+HP,HP 15,24,512,Windows 11 Home,Intel Core 5,15.6,77990,4.1
+HP,Omnibook 3,8,512,Windows 11 Home,Snapdragon X,14,63990,4.3
+ASUS,Vivobook 15,16,512,NaN,AMD Ryzen 5 Hexa Core,15.6,72990,4.5
+Apple,MacBook Air,16,512,macOS Sonoma,Apple M3,13,134900,4.6
+HP,NaN,8,512,Windows 11 Home,Intel Core 3,15.6,51199,4
+Apple,Macbook Pro,16,1024,Mac OS Monterey,Apple M1 Pro,14.2,239900,4.8
+Samsung,Galaxy Book4 Metal,16,512,Windows 11 Home,Intel Core i5,15.6,64990,4.4
+Acer,Aspire 14,16,512,Windows 11 Home,Snapdragon X,14,56990,4.4
+ASUS,Vivobook S14,16,512,NaN,Snapdragon X,14,72737,4.5
+HP,Victus,16,512,Windows 11 Home,Intel Core 7,15.6,115990,4.3
+ASUS,Vivobook S16,16,512,NaN,Snapdragon X,16,72990,4.5
+ASUS,Vivobook 14,16,512,NaN,Snapdragon X,14,60990,4.4
+ASUS,Vivobook 15,8,512,Windows 11 Home,Intel Core 3,15.6,54840,4.3
+MICROSOFT,NaN,16,256,NaN,Snapdragon X Plus,12,126990,4.3
+ASUS,Vivobook Go 14,8,512,NaN,AMD Ryzen 3 Quad Core,14,54290,4.3
+Lenovo,NaN,16,512,NaN,Intel Core Ultra 5,14,113990,4
+HP,Omnibook 3,16,512,Windows 11 Home,Snapdragon X,14,72990,4.3
+Samsung,Galaxy Book4 Edge Series,16,512,NaN,Snapdragon X,15.6,71990,4.4
+MICROSOFT,NaN,16,512,NaN,Snapdragon X Plus,12,135990,4.7
+ASUS,TUF Gaming F16,16,1024,Windows 11 Home,Intel Core i7,16,209700,4.3
+HP,HP 15,24,512,Windows 11 Home,Intel Core 5,15.6,77990,4.1
+HP,Omnibook 3,8,512,Windows 11 Home,Snapdragon X,14,63990,4.3
+ASUS,Vivobook 14,16,512,NaN,Intel Core Ultra 5,14,96990,4.4
+DELL,Inspiron 15,8,512,Windows 11,Intel Core i5,15.6,69490,4.2
+Acer,Aspire 15,8,512,Windows 11 Home,AMD Ryzen 3 Quad Core,15.6,54518,4.1
+Apple,MacBook Pro,8,512,macOS Sonoma,Apple M3,14,149900,4.6
+ASUS,TUF Gaming A15,16,512,Windows 11 Home,AMD Ryzen 7,15.6,92990,4.4
+Acer,Aspire 14,8,256,Windows 11 Home,AMD Ryzen 5,14,37990,3.9
+ASUS,Vivobook S14,16,512,NaN,Intel Core Ultra 5,14,134990,4.4
+MSI,Katana 15,16,1024,Windows 11 Home,Intel Core i5,15.6,96990,4.3
+Samsung,Galaxy Book4 Metal,16,512,Windows 11 Home,Intel Core i5,15.6,64990,4.4
+Acer,Aspire 14,16,512,Windows 11 Home,Snapdragon X,14,56990,4.4
+Apple,MacBook AIR,8,256,Mac OS Monterey,Apple M2,13.6,89900,4.7
+ASUS,Vivobook 14,16,512,NaN,Intel Core Ultra 5,14,96990,4.5
+Lenovo,IdeaPad Slim 3,16,512,Windows 11 Home,AMD Ryzen 3,15.6,64990,4.6
+Apple,MacBook Pro,8,512,macOS Sonoma,Apple M3,14,149900,4.6
+ASUS,Vivobook S16,16,512,NaN,Snapdragon X,16,72990,4.5
+ASUS,Vivobook 14,16,512,NaN,Snapdragon X,14,60990,4.4
+ASUS,Vivobook S14,16,512,NaN,Intel Core Ultra 5,14,134990,4.4
+Acer,Aspire Lite,16,512,Windows 11 Home,AMD Ryzen 3 Quad Core,15.6,56099,4.1
+ASUS,ExpertBook P1,8,512,Windows 11 Home,Intel Core 3,15.6,50990,4.4
+HP,Omnibook 3,16,512,Windows 11 Home,Snapdragon X,14,72990,4.3
+ASUS,Vivobook 15,16,512,Windows 11 Home,Intel Core 3,15.6,83990,4.3
+Apple,MacBook Air,16,1024,Tahoe,Apple M5,15.3,215900,4.8
+Apple,Macbook Pro,32,1024,Mac OS Monterey,Apple M1 Max,16.2,329900,4.5
+Lenovo,IdeaPad Slim 3,8,512,Windows 11 Home,Intel Core i3,15.6,61990,4.2
+Samsung,Galaxy Book4 Edge Series,16,512,NaN,Snapdragon X,15.6,71990,4.4
+ASUS,TUF Gaming A15,16,512,Windows 11 Home,AMD Ryzen 7,15.6,92990,4.4
+Acer,Aspire,16,512,Windows 11 Home,Intel Core i3,15.6,49990,4
+Acer,Aspire Lite,16,512,Windows 11 Home,Intel Core i7,15.6,64990,4
+HP,HP 15,24,512,Windows 11 Home,Intel Core 5,15.6,77990,4.1
+MSI,Modern 14,8,512,Windows 11 Home,AMD Ryzen 5 Hexa Core,14,49990,4.3
+Acer,Aspire 3,8,512,Windows 11 Home,Intel Core i3,14,99999,3.7
+ASUS,Vivobook 14,16,512,NaN,Intel Core Ultra 7,14,112990,4.6
+Lenovo,LOQ,16,512,Windows 11 Home,Intel Core i5,15.6,134890,4.4
+Acer,Aspire,16,512,Windows 11 Home,Intel Core i3,15.6,49990,4
+Samsung,Galaxy Book4 Metal,16,512,Windows 11 Home,Intel Core i5,15.6,64990,4.4
+Acer,Aspire 14,16,512,Windows 11 Home,Snapdragon X,14,56990,4.4
+ASUS,ROG Flow,32,1024,NaN,AMD Ryzen AI Max,13.4,240199,3.8
+HP,NaN,8,512,Windows 11 Home,AMD Ryzen 3 Quad Core,15.6,50299,4
+ASUS,Vivobook S16,16,512,NaN,Snapdragon X,16,72990,4.5
+ASUS,Vivobook 14,16,512,NaN,Snapdragon X,14,60990,4.4
+Acer,Aspire Lite,16,512,Windows 11 Home,Intel Core i3,15.6,NaN,4.2
+HP,HP 15,8,512,Windows 11 Pro,AMD Ryzen 3 Quad Core,15.6,51399,4.1
+Lenovo,IdeaPad Slim 5,16,1024,NaN,Snapdragon X Plus,14,86990,4.1
+ASUS,TUF Gaming A15,16,512,Windows 11 Home,AMD Ryzen 7 Hexa Core,15.6,98000,4.4
+Samsung,Galaxy Book4 Edge Series,16,512,NaN,Snapdragon X,15.6,71990,4.4
+HP,Omnibook 3,16,512,Windows 11 Home,Snapdragon X,14,72327,4.3
+Apple,MacBook Air,16,1024,Tahoe,Apple M5,15.3,215900,4.8
+ASUS,Vivobook 16,16,512,NaN,Intel Core i5,16,NaN,4.4
+HP,Omnibook 3,8,512,Windows 11 Home,Snapdragon X,14,63990,4.3
+HP,HP 15,24,512,Windows 11 Home,Intel Core 5,15.6,77990,4.1
+DELL,Alienware 15,16,512,Windows 11 Home,Intel Core 7,15.3,164990,3.6
+HP,Omnibook 3,16,512,Windows 11 Home,Snapdragon X,14,72327,4.3
+DELL,Inspiron 15,16,1024,Windows 11,Intel Core i5,15.6,80990,4.2
+Acer,Aspire 3,8,512,Windows 11 Home,Intel Core i5,15.6,57990,4.3
+ASUS,TUF Gaming A15,16,512,Windows 11 Home,AMD Ryzen 7,15.6,92990,4.4
+Acer,Aspire 14,8,256,Windows 11 Home,AMD Ryzen 5,14,37990,3.9
+HP,NaN,8,512,Windows 11 Home,Intel Core i3,15.6,55890,4.2
+ASUS,NaN,16,512,Windows 11 Home,Intel Core i7,16,209990,4.3
+Samsung,Galaxy Book4 Metal,16,512,Windows 11 Home,Intel Core i5,15.6,64990,4.4
+Acer,Aspire 14,16,512,Windows 11 Home,Snapdragon X,14,56990,4.4
+DELL,NaN,8,512,Windows 11 Home,AMD Ryzen 5 Quad Core,15.6,53990,4.2
+ASUS,ExpertBook P3,16,1024,Windows 11 Home,Intel Core Ultra 7,14,111990,3.6
+Acer,Aspire 7,16,512,Windows 11 Home,Intel Core 5,15.6,88400,4.3
+Acer,NaN,8,512,Windows 11 Home,AMD Ryzen 3 Quad Core,14,45990,4
+ASUS,Vivobook S16,16,512,NaN,Snapdragon X,16,72990,4.5
+ASUS,Vivobook 14,16,512,NaN,Snapdragon X,14,60990,4.4
+Acer,Chromebook,8,NaN,Chrome OS,Intel Celeron Dual Core,14,27990,3.8
+Apple,MacBook Pro,24,1024,Tahoe,Apple M5 Pro,14,299900,4
+ASUS,ExpertBook P1,8,512,Windows 11 Home,Intel Core 3,15.6,50990,4.4
+HP,Omnibook 3,16,512,Windows 11 Home,Snapdragon X,14,72990,4.3
+ASUS,Chromebook CX15,4,NaN,Chrome OS,Intel Celeron Dual Core,15.6,37775,4
+DELL,Inspiron,16,512,Windows 11 Home,Intel Core i5,15.6,81948,4.1
+Acer,Aspire 3,8,256,NaN,Intel Celeron Dual Core,15.6,36990,3.5
+Prittec,NaN,8,256,Windows 11 Home,Intel Celeron Dual Core,14,25599,3.8
+Samsung,Galaxy Book4 Edge Series,16,512,NaN,Snapdragon X,15.6,71990,4.4
+ASUS,TUF Gaming A15,16,512,Windows 11 Home,AMD Ryzen 7,15.6,92990,4.4
+Acer,NaN,8,512,Windows 11 Home,AMD Ryzen 3 Quad Core,15.6,46990,4.5
+ASUS,Vivobook Go 14,8,512,NaN,AMD Ryzen 3 Quad Core,14,53997,4.3
+HP,HP 15,24,512,Windows 11 Home,Intel Core 5,15.6,77990,4.1
+MSI,Modern 14,8,512,Windows 11 Home,AMD Ryzen 5 Hexa Core,14,49990,4.3
+Acer,One 15,8,256,Windows 11 Home,AMD Ryzen 3 Octa Core,15.6,42895,3.9
+Acer,NaN,16,512,NaN,Intel Core Ultra 5,14,68654,4.3
+HP,NaN,8,256,Windows 11 Home,AMD Athlon Dual Core,15.6,47625,4
+DELL,DELL 15,8,512,Windows 11 Home,AMD Ryzen 5 Quad Core,15.6,57990,4.2
+Samsung,Galaxy Book4 Metal,16,512,Windows 11 Home,Intel Core i5,15.6,64990,4.4
+Acer,Aspire 14,16,512,Windows 11 Home,Snapdragon X,14,56990,4.4
+Lenovo,NaN,8,512,Windows 11 Home,Intel Core i5,14,63400,4.1
+Acer,Aspire Lite,8,512,Windows 11 Home,Intel Core i3,15.6,50990,4.1
+ASUS,Vivobook S16,16,512,NaN,Snapdragon X,16,72990,4.5
+ASUS,Vivobook 14,16,512,NaN,Snapdragon X,14,60990,4.4
+ASUS,Vivobook 15,8,512,Windows 11 Home,Intel Core i3,15.6,59989,4.3
+HP,NaN,24,1024,Windows 11 Home,Intel Core Ultra 7,16,188332,4.3
+Lenovo,IdeaPad Slim 3,16,512,Windows 11 Home,Intel Core i5,15.6,51990,4.2
+HP,NaN,8,512,Windows 11 Home,AMD Ryzen 5 Quad Core,15.6,57299,4.2
+ASUS,ExpertBook P1,8,512,Windows 11 Home,Intel Core 3,15.6,50990,4.4
+HP,Omnibook 3,16,512,Windows 11 Home,Snapdragon X,14,72990,4.3
+ASUS,Vivobook 15,16,512,NaN,Intel Core 5,15.6,71990,4.3
+Samsung,Galaxy Book2,16,512,Windows 11 Home,Intel Core i7,15.6,121005,4.7
+Samsung,Galaxy Book4 Edge Series,16,512,NaN,Snapdragon X,15.6,71990,4.4
+ASUS,TUF Gaming A15,16,512,Windows 11 Home,AMD Ryzen 7,15.6,92990,4.4
+DELL,NaN,8,512,Windows 11 Home,AMD Ryzen 5 Quad Core,15.6,53990,4.1
+Lenovo,NaN,16,512,Windows 11 Home,AMD Ryzen 7 Octa Core,15.6,78900,4.1
+ASUS,Vivobook 15,8,256,Windows 11,Intel Core 3,15.6,55990,4
+ASUS,Vivobook Go 15,8,512,NaN,AMD Ryzen 3 Quad Core,15.6,60490,4.3
+Samsung,Galaxy Book4 Metal,16,512,Windows 11 Home,Intel Core i5,15.6,64990,4.4
+Acer,Aspire 14,16,512,Windows 11 Home,Snapdragon X,14,56990,4.4
+ASUS,ExpertBook P3,16,512,Windows 11,Intel Core Ultra 7,16,120000,4.4
+Lenovo,LOQ Essential,16,512,Windows 11 Home,AMD Ryzen 7 Octa Core,15.6,110800,4.1
+ASUS,Vivobook S16,16,512,NaN,Snapdragon X,16,72990,4.5
+ASUS,Vivobook 14,16,512,NaN,Snapdragon X,14,60990,4.4
+ASUS,NaN,4,NaN,Windows 10 Home,Intel Core i5,15.6,44557,3.7
+Lenovo,Chromebook,4,NaN,Chrome OS,MediaTek Kompanio 520,14,22990,3.9
+ASUS,Vivobook 16,16,512,Windows 11 Home,AMD Ryzen 5 Hexa Core,16,82990,4.4
+ASUS,Vivobook 16,16,512,NaN,Snapdragon X,16,65180,4.1
+ASUS,ExpertBook P1,8,512,Windows 11 Home,Intel Core 3,15.6,50990,4.4
+HP,Omnibook 3,16,512,Windows 11 Home,Snapdragon X,14,72990,4.3
+HP,HP 15,8,512,Windows 11 Home,AMD Ryzen 3 Quad Core,15.6,50990,4
+Lenovo,NaN,32,1024,Windows 11 Home,Intel Core Ultra 9,14,171900,4.3
+Samsung,Galaxy Book4 Edge Series,16,512,NaN,Snapdragon X,15.6,71990,4.4
+ASUS,TUF Gaming A15,16,512,Windows 11 Home,AMD Ryzen 7,15.6,92990,4.4
+Acer,Aspire 7,16,512,Windows 11 Home,Intel Core 5,15.6,110000,4.3
+Lenovo,IdeaPad Slim 3,16,512,NaN,Intel Core i5,15.3,73839,3.8
+Lenovo,NaN,8,512,Windows 11 Pro,AMD Ryzen 3 Quad Core,15.6,52900,4.3
+HP,NaN,8,512,Windows 11 Home,Intel Core i3,15.6,55990,4.2
+HP,HP 15,24,512,Windows 11 Home,Intel Core 5,15.6,77990,4.1
+MSI,Modern 14,8,512,Windows 11 Home,AMD Ryzen 5 Hexa Core,14,49990,4.3
+DELL,NaN,16,512,Windows 1,Intel Core 3,15.6,65990,4.3
+ASUS,NaN,16,512,Windows 11 Home,Intel Core i5,16,158990,4.6
+Samsung,Galaxy Book4 Metal,16,512,Windows 11 Home,Intel Core i5,15.6,64990,4.4
+Acer,Aspire 14,16,512,Windows 11 Home,Snapdragon X,14,56990,4.4
+ASUS,NaN,16,512,NaN,Snapdragon X,14,84028,3.9
+ASUS,Vivobook Go 14,8,512,Windows 11 Home,AMD Ryzen 3 Quad Core,14,52990,4.4
+Acer,Aspire Lite,16,512,Windows 11 Home,Intel Core i7,15.6,84990,4.3
+Lenovo,NaN,8,512,Windows 11 Home,Intel Core i5,14,67439,4
+ASUS,Vivobook S16,16,512,NaN,Snapdragon X,16,72990,4.5
+ASUS,Vivobook 14,16,512,NaN,Snapdragon X,14,60990,4.4
+Acer,Aspire 3,8,512,Windows 11 Home,Intel Core i3,15.6,48800,4.2
+ASUS,VIVOBOOK GO 15,16,512,NaN,AMD Ryzen 5 Octa Core,15.6,68716,4.7
+ASUS,ExpertBook P1,8,512,Windows 11 Home,Intel Core 3,15.6,50990,4.4
+HP,Omnibook 3,16,512,Windows 11 Home,Snapdragon X,14,72990,4.3
+HP,NaN,8,512,Windows 10 Home,Intel Core i3,15.6,55890,4.3
+Lenovo,NaN,8,512,Windows 11 Home,Intel Core i3,15.6,37890,4.2
+HP,NaN,8,512,Windows 11 Home,Intel Core i3,15.6,55990,4.2
+Acer,Chromebook,4,NaN,Chrome OS,MediaTek MediaTek Kompanio 540,15.6,24990,3.5
+Samsung,Galaxy Book4 Edge Series,16,512,NaN,Snapdragon X,15.6,71990,4.4
+ASUS,TUF Gaming A15,16,512,Windows 11 Home,AMD Ryzen 7,15.6,92990,4.4
+DELL,DELL 14,16,512,Windows 11 Home,Intel Core Ultra 7,14,109990,4.1
+HP,NaN,8,512,Windows 11 Home,Intel Core i3,15.6,54990,4.2
+HP,HP 15,24,512,Windows 11 Home,Intel Core 5,15.6,77990,4.1
+MSI,Modern 14,8,512,Windows 11 Home,AMD Ryzen 5 Hexa Core,14,49990,4.3
+HP,NaN,16,512,Windows 11 Pro,Intel Core i3,15.6,60899,4
+HP,NaN,16,512,Windows 11 Pro,Intel Core i3,15.6,59500,4
+Acer,NaN,8,NaN,Windows 10 Home,Intel Core i5,15.6,87990,4.4
+Acer,Aspire,16,512,Windows 11 Home,Intel Core Ultra 5,14,NaN,4
+Samsung,Galaxy Book4 Metal,16,512,Windows 11 Home,Intel Core i5,15.6,64990,4.4
+Acer,Aspire 14,16,512,Windows 11 Home,Snapdragon X,14,56990,4.4
+ASUS,NaN,4,NaN,Windows 10 Home,Intel Core i5,15.6,44557,3.7
+Lenovo,LOQ Essential,16,512,Windows 11 Home,AMD Ryzen 7 Octa Core,15.6,126999,4.2
+ASUS,Vivobook S16,16,512,NaN,Snapdragon X,16,72990,4.5
+ASUS,Vivobook 14,16,512,NaN,Snapdragon X,14,60990,4.4
+DELL,NaN,8,512,Windows 11,Intel Core 3,15.6,53990,4
+HP,NaN,8,512,Windows 11 Home,AMD Ryzen 3 Dual Core,15.6,50890,4.1
+HP,NaN,16,512,Windows 11 Pro,Intel Core i3,15.6,60899,4
+Acer,Aspire Lite,16,512,Windows 11 Home,Intel Core i7,15.6,84990,4.3
+HP,Omnibook 3,16,512,Windows 11 Home,Snapdragon X,14,72990,4.3
+Samsung,Galaxy Book4 Edge Series,16,512,NaN,Snapdragon X,15.6,71990,4.4
+DELL,Inspiron 3530,8,512,Windows 11 Home,Intel Core i3,15.6,59699,4.2
+HP,NaN,8,512,Windows 11 Home,Intel Core i5,15.6,69990,4.2
+HP,HP 15,24,512,Windows 11 Home,Intel Core 5,15.6,77990,4.1
+HP,Omnibook 3,8,512,Windows 11 Home,Snapdragon X,14,63990,4.3
+DELL,Inspiron 15,16,512,Windows 11 Home,Intel Core i5,15.6,89989,4.2
+HP,HP 15,8,256,Windows 11 Home,AMD Athlon Dual Core,15.6,50790,4
+HP,NaN,16,1024,Windows 11 Home,Qualcomm Snapdragon X,14,NaN,4.7
+HP,NaN,8,512,Windows 11 Home,Intel Core i3,14,55938,4
+ASUS,TUF Gaming A15,16,512,Windows 11 Home,AMD Ryzen 7,15.6,92990,4.4
+Acer,Aspire 14,8,256,Windows 11 Home,AMD Ryzen 5,14,37990,3.9
+ASUS,Vivobook 14,8,256,Windows 11 Home,Intel Core 3,14,55990,4
+Lenovo,NaN,8,512,Windows 11 Home,Intel Core i5,15.6,67950,4.3
+Samsung,Galaxy Book4 Metal,16,512,Windows 11 Home,Intel Core i5,15.6,64990,4.4
+Acer,Aspire 14,16,512,Windows 11 Home,Snapdragon X,14,56990,4.4
+Lenovo,IdeaPad Slim 3,8,512,Windows 11 Home,AMD Ryzen 3 Quad Core,15.6,55194,4.3
+HP,NaN,8,512,Windows 11 Home,AMD Ryzen 3 Quad Core,15.6,50990,4
+HP,Victus 15,16,512,Windows 11 Home,AMD Ryzen 7 Octa Core,15.6,114590,4.4
+HP,NaN,16,512,Windows 11 Pro,Intel Core i5,14,79845,4.4
+ASUS,Vivobook S16,16,512,NaN,Snapdragon X,16,72990,4.5
+ASUS,Vivobook 14,16,512,NaN,Snapdragon X,14,60990,4.4
+HP,NaN,8,512,Windows 11 Home,AMD Ryzen 5 Hexa Core,15.6,57500,4.1
+Acer,Aspire 5,8,512,Windows 10 Home,AMD Ryzen 5 Hexa Core,15.6,60999,4.3
+ASUS,ExpertBook P1,8,512,Windows 11 Home,Intel Core 3,15.6,50990,4.4
+Samsung,Galaxy Book4 Edge Series,16,512,NaN,Snapdragon X,15.6,71990,4.4
+ASUS,Vivobook Go 15,8,512,NaN,AMD Ryzen 5,15.6,66755,4.5
+Lenovo,NaN,16,512,Windows 11 Home,Intel Core i5,15.6,79900,4.1
+Lenovo,NaN,8,512,Windows 11 Home,AMD Ryzen 3 Quad Core,15.6,54790,4.1
+DELL,Inspiron 5440,8,512,Windows 11 Home,Intel Core i3,14,60500,4
+HP,Omnibook 3,16,512,Windows 11 Home,Snapdragon X,14,72990,4.3
+MSI,Modern 14,8,512,Windows 11 Home,AMD Ryzen 5 Hexa Core,14,49990,4.3
+HP,NaN,16,512,Windows 11 Home,Intel Core i5,14,82685,4.2
+Acer,NaN,16,512,Windows 11 Pro,Intel Core i3,14,53490,4.1
+ASUS,TUF Gaming A15,16,512,Windows 11 Home,AMD Ryzen 7,15.6,92990,4.4
+HP,HP 15,24,512,Windows 11 Home,Intel Core 5,15.6,77990,4.1
+ASUS,Vivobook 16,16,512,Windows 11 Home,Intel Core i5,16,78900,4
+DELL,DELL 15,16,512,Windows 11 Home,Intel Core i5,15.6,78990,4.3
+HP,NaN,8,256,Windows 11 Pro,AMD Athlon Dual Core,15.6,47999,4.1
+ASUS,Vivobook Go 15,8,512,Windows 11,AMD Ryzen 5,15.6,67891,4.1
+Samsung,Galaxy Book4 Metal,16,512,Windows 11 Home,Intel Core i5,15.6,64990,4.4
+Acer,Aspire 14,16,512,Windows 11 Home,Snapdragon X,14,56990,4.4
+ASUS,TUF Gaming A15,16,512,Windows 11 Home,AMD Ryzen 7,15.6,96990,5
+Acer,NaN,16,512,Windows 11 Home,Intel Core i5,14,61590,4
+ASUS,Vivobook S16,16,512,NaN,Snapdragon X,16,72990,4.5
+ASUS,Vivobook 14,16,512,NaN,Snapdragon X,14,60990,4.4
+HP,NaN,8,512,Windows 11 Home,AMD Ryzen 3 Quad Core,15.6,50780,4.1
+DELL,Inspiron 5440,16,512,Windows 11 Home,Intel Core i3,14,68140,4
+HP,NaN,8,256,Windows 11 Home,AMD Ryzen 5 Hexa Core,15.6,59990,4.2
+HP,NaN,8,512,Windows 11 Home,Intel Core i3,15.6,55890,4.3
+HP,Omnibook 3,16,512,Windows 11 Home,Snapdragon X,14,72990,4.3
+Samsung,Galaxy Book4 Edge Series,16,512,NaN,Snapdragon X,15.6,71990,4.4
+Lenovo,IdeaPad Slim 3,8,512,Windows 11 Home,Intel Core i3,15.6,57990,4.1
+Lenovo,NaN,16,512,Windows 11 Home,Intel Core i5,15.6,62999,4.2
+HP,HP 15,24,512,Windows 11 Home,Intel Core 5,15.6,77990,4.1
+HP,Omnibook 3,8,512,Windows 11 Home,Snapdragon X,14,63990,4.3
+HP,NaN,8,512,Windows 11 Home,AMD Ryzen 5 Quad Core,14,57990,4.1
+Lenovo,NaN,8,NaN,Windows 11 Home,Intel Core i3,15.6,34939,3.7
+HP,HP 15,16,512,Windows 11 Pro,Intel Core i3,15.6,NaN,4.3
+HP,NaN,8,512,Windows 11 Home,AMD Ryzen 5 Hexa Core,15.6,59601,4.3
+Samsung,Galaxy Book4 Metal,16,512,Windows 11 Home,Intel Core i5,15.6,64990,4.4
+Acer,Aspire 14,16,512,Windows 11 Home,Snapdragon X,14,56990,4.4
+HP,NaN,8,512,Windows 11 Home,AMD Ryzen 5 Quad Core,15.6,56990,3.8
+ASUS,TUF Gaming F16,16,512,Windows 11 Home,Intel Core 5,16,104999,4.8
+ASUS,Vivobook S16,16,512,NaN,Snapdragon X,16,72990,4.5
+ASUS,Vivobook 14,16,512,NaN,Snapdragon X,14,60990,4.4
+ASUS,Vivobook GO 15,16,512,Windows 11 Home,AMD Ryzen 5 Quad Core,15.6,NaN,4.1
+ASUS,Vivobook Go 15,8,256,NaN,AMD Ryzen 3 Quad Core,15.6,67677,3.5
+Lenovo,IdeaPad Slim 3,16,512,Windows 11 Home,Intel Core i5,15.6,79990,4.2
+Acer,Aspire 5,8,512,Windows 11 Home,Intel Core i5,15.6,70045,4.7
+ASUS,ExpertBook P1,8,512,Windows 11 Home,Intel Core 3,15.6,50990,4.4
+HP,Omnibook 3,16,512,Windows 11 Home,Snapdragon X,14,72990,4.3
+Acer,NaN,8,512,Windows 11 Home,AMD Ryzen 5 Hexa Core,14,55100,4.3
+Acer,Aspire 3,8,512,Windows 11 Home,AMD Ryzen 3 Dual Core,15.6,41527,4.1
+Samsung,Galaxy Book4 Edge Series,16,512,NaN,Snapdragon X,15.6,71990,4.4
+ASUS,TUF Gaming A15,16,512,Windows 11 Home,AMD Ryzen 7,15.6,92990,4.4
+HP,NaN,16,512,Windows 11 Pro,AMD Ryzen 5,14,87488,4.3
+HP,NaN,8,512,Windows 11 Home,Intel Core i3,15.6,55990,4.1
+ASUS,ROG Strix,32,1024,NaN,Intel Core i9,16,291499,5
+HP,Victus,8,512,Windows 11 Home,Intel Core i5,15.6,98999,4.3
+HP,HP 15,24,512,Windows 11 Home,Intel Core 5,15.6,77990,4.1
+MSI,Modern 14,8,512,Windows 11 Home,AMD Ryzen 5 Hexa Core,14,49990,4.3
+HP,HP 15,16,512,Windows 11 Home,AMD Ryzen 5 Hexa Core,15.6,68990,4
+MSI,NaN,16,1024,Windows 11 Home,Intel Core Ultra 5,14,109990,4.4
+Samsung,Galaxy Book4 Metal,16,512,Windows 11 Home,Intel Core i5,15.6,64990,4.4
+Acer,Aspire 14,16,512,Windows 11 Home,Snapdragon X,14,56990,4.4
+ASUS,ROG Strix,32,1024,NaN,Intel Core i9,16,291499,5
+HP,NaN,8,512,Windows 11 Home,Intel Core i3,15.6,55990,4.1
+HP,NaN,16,512,Windows 11 Pro,AMD Ryzen 5,14,87488,4.3
+Lenovo,LOQ,16,512,Windows 11 Home,Intel Core i5,15.6,109312,4
+ASUS,Vivobook S16,16,512,NaN,Snapdragon X,16,72990,4.5
+ASUS,Vivobook 14,16,512,NaN,Snapdragon X,14,60990,4.4
+HP,NaN,8,1024,Windows 10 Home,Intel Core i5,15.6,79891,4.5
+Acer,NaN,16,512,Windows 11 Home,Intel Core i5,15.6,85136,4.1
+HP,Omnibook 3,16,512,Windows 11 Home,Snapdragon X,14,72990,4.3
+Samsung,Galaxy Book4 Edge Series,16,512,NaN,Snapdragon X,15.6,71990,4.4
+Acer,Aspire 5,16,512,Windows 11 Home,Intel Core i5,15.6,NaN,4.1
+Lenovo,NaN,32,1024,Windows 11 Home,Intel Core Ultra 7,16,265990,4.7
+MSI,NaN,16,1024,Windows 11 Home,Intel Core Ultra 5,14,109990,4.4
+ASUS,TUF Gaming F17,16,1024,Windows 11,Intel Core i5,17.3,91990,4.3
+HP,HP 15,24,512,Windows 11 Home,Intel Core 5,15.6,77990,4.1
+HP,Omnibook 3,8,512,Windows 11 Home,Snapdragon X,14,63990,4.3
+Acer,Aspire Lite,16,512,Windows 11 Home,Intel Core i7,15.6,76990,4
+ASUS,Vivobook 15,8,512,Windows 11 Home,Intel Core i3,15.6,58990,4.4
+ASUS,TUF Gaming A15,16,512,Windows 11 Home,AMD Ryzen 7,15.6,92990,4.4
+Acer,Aspire 14,8,256,Windows 11 Home,AMD Ryzen 5,14,37990,3.9
+Lenovo,NaN,8,512,Windows 11 Pro,Intel Core i3,14,57499,4.4
+ASUS,TUF Gaming A15,16,512,Windows 11 Home,AMD Ryzen 7,15.6,104020,4.9
+Acer,Aspire,8,512,Windows 11 Home,Intel Core i3,15.6,49990,4
+DELL,Inspiron 15,8,256,Windows 11 Home,Intel Core i5,15.6,68990,4
+Samsung,Galaxy Book4 Metal,16,512,Windows 11 Home,Intel Core i5,15.6,64990,4.4
+Acer,Aspire 14,16,512,Windows 11 Home,Snapdragon X,14,56990,4.4
+HP,HP 15,16,512,Windows 11 Home,AMD Ryzen 3 Quad Core,15.6,60990,3.9
+ASUS,Vivobook 15,12,512,Windows 11 Home,Intel Core i3,15.6,65699,3.8
+ASUS,Vivobook S16,16,512,NaN,Snapdragon X,16,72990,4.5
+ASUS,Vivobook 14,16,512,NaN,Snapdragon X,14,60990,4.4
+HP,NaN,8,512,Windows 11 Home,Intel Core i5,15.6,68990,4.1
+HP,NaN,8,512,Windows 11 Home,Intel Core i3,15.6,55990,4.2
+ASUS,TUF Gaming A15,16,512,Windows 11 Home,AMD Ryzen 7 Octa Core,15.6,99300,4
+Lenovo,NaN,16,512,Windows 11 Home,Intel Core i7,14.2,162999,4.4
+ASUS,ExpertBook P1,8,512,Windows 11 Home,Intel Core 3,15.6,50990,4.4
+Samsung,Galaxy Book4 Edge Series,16,512,NaN,Snapdragon X,15.6,71990,4.4
+Lenovo,IdeaPad Slim 3,8,512,NaN,AMD Ryzen 3 Quad Core,15.6,59729,4.5
+DELL,INSPIRON 5440,8,512,Windows 11 Home,Intel Core i3,14,56140,4.1
+HP,Omnibook 3,16,512,Windows 11 Home,Snapdragon X,14,72990,4.3
+MSI,Modern 14,8,512,Windows 11 Home,AMD Ryzen 5 Hexa Core,14,49990,4.3
+ASUS,TUF Gaming A15,16,512,Windows 11 Home,AMD Ryzen 7 Hexa Core,15.6,98349,5
+HP,NaN,16,512,Windows 11 Home,Intel Core i5,15.6,69990,4.3
+Lenovo,NaN,8,512,Windows 11 Home,AMD Ryzen 3 Quad Core,15.6,54690,4.4
+Lenovo,NaN,8,512,Windows 11 Home,Intel Core i5,15.6,51291,4
+ASUS,TUF Gaming A15,16,512,Windows 11 Home,AMD Ryzen 7,15.6,92990,4.4
+HP,HP 15,24,512,Windows 11 Home,Intel Core 5,15.6,77990,4.1
+Lenovo,IdeaPad Slim 3,8,512,Windows 11 Home,Intel Core i3,15.6,57990,3.9
+DELL,NaN,16,1024,Windows 11 Home,Intel Core i5,15.6,109000,4.1
+Samsung,Galaxy Book4 Metal,16,512,Windows 11 Home,Intel Core i5,15.6,64990,4.4
+Acer,Aspire 14,16,512,Windows 11 Home,Snapdragon X,14,56990,4.4
+HP,NaN,16,512,Windows 11 Home,Intel Core i5,15.6,69990,4.3
+Acer,Aspire,8,512,Windows 11 Home,Intel Core i3,15.6,49990,4
+Acer,Aspire 3,8,256,Windows 11 Home,Intel Celeron Dual Core,11.6,31990,NaN
+Lenovo,NaN,8,512,Windows 11 Home,Intel Core i5,15.6,51291,4
+ASUS,Vivobook S16,16,512,NaN,Snapdragon X,16,72990,4.5
+ASUS,Vivobook 14,16,512,NaN,Snapdragon X,14,60990,4.4
+ASUS,TUF Gaming A15,16,512,Windows 11 Home,AMD Ryzen 7 Octa Core,15.6,99300,4
+Lenovo,IdeaPad Slim 3,8,512,NaN,AMD Ryzen 3 Quad Core,15.6,59729,4.5
+Samsung,Galaxy Book4 Edge Series,16,512,NaN,Snapdragon X,15.6,71990,4.4
+HP,Omnibook 3,16,512,Windows 11 Home,Snapdragon X,14,72990,4.3
+DELL,INSPIRON 5440,8,512,Windows 11 Home,Intel Core i3,14,56140,4.1
+Lenovo,NaN,16,512,Windows 11 Home,Intel Core i7,14.2,162999,4.4
+HP,Victus,16,1024,Windows 11 Home,Intel Core i7,15.6,NaN,4.2
+ASUS,TUF Gaming A15,16,512,Windows 11 Home,AMD Ryzen 7 Hexa Core,15.6,98349,5
+HP,Omnibook 3,8,512,Windows 11 Home,Snapdragon X,14,63990,4.3
+HP,HP 15,24,512,Windows 11 Home,Intel Core 5,15.6,77990,4.1
+HP,NaN,8,512,Windows 11 Home,Intel Core i5,15.6,68990,4.1
+HP,NaN,8,512,Windows 11 Home,Intel Core i3,15.6,55990,4.2
+ASUS,TUF Gaming A15,16,512,Windows 11 Home,AMD Ryzen 7,15.6,92990,4.4
+Acer,Aspire 14,8,256,Windows 11 Home,AMD Ryzen 5,14,37990,3.9
+Acer,Aspire,12,256,Windows 11 Home,Intel Celeron Dual Core,14,43900,3.8
+HP,NaN,8,512,Windows 11 Home,Intel Core i3,15.6,57990,4.2
+HP,HP 15,16,512,Windows 11 Home,Intel Core 5,15.6,78969,3.9
+ASUS,NaN,16,512,Windows 11 Home,Intel Core i5,16,77500,4.7
+Samsung,Galaxy Book4 Metal,16,512,Windows 11 Home,Intel Core i5,15.6,64990,4.4
+Acer,Aspire 14,16,512,Windows 11 Home,Snapdragon X,14,56990,4.4
+ASUS,Vivobook 16,8,512,Windows 11 Home,Intel Core i3,16,57699,4.4
+Lenovo,NaN,16,512,Windows 11 Home,Intel Core Ultra 5,14,119990,NaN
+ASUS,Vivobook S16,16,512,NaN,Snapdragon X,16,72990,4.5
+ASUS,Vivobook 14,16,512,NaN,Snapdragon X,14,60990,4.4
+ASUS,Vivobook 15,16,512,Windows 11 Home,Intel Core i5,15.6,72990,3.9
+ASUS,Vivobook Go 14,16,512,NaN,AMD Ryzen 5 Quad Core,14,68500,4.4
+Lenovo,NaN,8,512,Windows 11 Home,Intel Core i5,15.6,54990,3.6
+Lenovo,NaN,16,512,Windows 11 Home,AMD Ryzen 7 Octa Core,15.6,77447,4.2
+ASUS,ExpertBook P1,8,512,Windows 11 Home,Intel Core 3,15.6,50990,4.4
+HP,Omnibook 3,16,512,Windows 11 Home,Snapdragon X,14,72990,4.3
+Lenovo,NaN,8,512,Windows 11 Home,Intel Core i3,14,68900,3.9
+Acer,Aspire 3,8,512,Windows 11 Home,Intel Core i3,15.6,50990,4.2
+Samsung,Galaxy Book4 Edge Series,16,512,NaN,Snapdragon X,15.6,71990,4.4
+ASUS,TUF Gaming A15,16,512,Windows 11 Home,AMD Ryzen 7,15.6,92990,4.4
+HP,Omnibook 5,8,512,Windows 11 Home,Intel Core 5,14,107799,NaN
+Lenovo,NaN,8,512,Windows 11 Pro,Intel Core i3,15.6,56990,4.2
+HP,NaN,8,512,Windows 10 Home,Intel Core i5,14,75990,4.2
+DELL,Inspiron,16,512,Windows 11 Home,Intel Core i5,15.6,110990,4
+Samsung,Galaxy Book4 Metal,16,512,Windows 11 Home,Intel Core i5,15.6,64990,4.4
+Acer,Aspire 14,16,512,Windows 11 Home,Snapdragon X,14,56990,4.4
+ASUS,Vivobook Go 14,16,512,Windows 11,AMD Ryzen 5,14,65990,NaN
+Lenovo,NaN,8,512,Windows 11 Home,Intel Core i5,15.6,54990,3.6
+ASUS,Vivobook S16,16,512,NaN,Snapdragon X,16,72990,4.5
+ASUS,Vivobook 14,16,512,NaN,Snapdragon X,14,60990,4.4
+Lenovo,NaN,16,512,Windows 11 Home,AMD Ryzen 7 Octa Core,15.6,77447,4.2
+ASUS,Vivobook 15,16,512,Windows 11 Home,Intel Core i5,15.6,72990,3.9
+HP,NaN,8,512,Windows 11 Home,AMD Ryzen 5 Hexa Core,15.6,58990,4.5
+ASUS,Vivobook Go 14,16,512,NaN,AMD Ryzen 5 Quad Core,14,68500,4.4
+Samsung,Galaxy Book4 Edge Series,16,512,NaN,Snapdragon X,15.6,71990,4.4
+HP,Omnibook 3,16,512,Windows 11 Home,Snapdragon X,14,72990,4.3
+ASUS,Vivobook 16,8,512,Windows 11 Home,Intel Core i3,16,57699,4.4
+Lenovo,NaN,8,512,Windows 11 Home,Intel Core i3,15.6,51990,3.9
+HP,Omnibook 3,8,512,Windows 11 Home,Snapdragon X,14,63990,4.3
+HP,HP 15,24,512,Windows 11 Home,Intel Core 5,15.6,77990,4.1
+DELL,Inspiron,16,512,Windows 11 Home,AMD Ryzen 5 Hexa Core,14,NaN,4.3
+Acer,NaN,32,512,Windows 11 Pro,Intel Core 5,14,NaN,5
+Lenovo,NaN,8,512,Windows 11 Home,AMD Ryzen 5 Hexa Core,14,92350,4
+Lenovo,NaN,8,512,Windows 11 Home,Intel Core i3,15.6,37990,4.3
+ASUS,TUF Gaming A15,16,512,Windows 11 Home,AMD Ryzen 7,15.6,92990,4.4
+Acer,Aspire 14,8,256,Windows 11 Home,AMD Ryzen 5,14,37990,3.9
+Lenovo,NaN,16,512,Windows 11 Home,Intel Core Ultra 5,14,119990,NaN
+ASUS,Vivobook Go 15,16,512,Windows 11 Home,AMD Ryzen 5 Quad Core,15.6,75699,4.2
+Samsung,Galaxy Book4 Metal,16,512,Windows 11 Home,Intel Core i5,15.6,64990,4.4
+Acer,Aspire 14,16,512,Windows 11 Home,Snapdragon X,14,56990,4.4
+Lenovo,NaN,8,512,Windows 11 Pro,Intel Core i3,14,57499,4.6
+ASUS,Vivobook 15,8,512,Windows 11 Home,Intel Core i3,15.6,60011,4
+HP,NaN,16,512,NaN,Intel Core 5,14,74990,NaN
+Lenovo,IdeaPad Slim 3,8,512,Windows 11 Home,AMD Ryzen 3 Quad Core,14,55990,4.3
+ASUS,Vivobook S16,16,512,NaN,Snapdragon X,16,72990,4.5
+ASUS,Vivobook 14,16,512,NaN,Snapdragon X,14,60990,4.4
+HP,HP 15,16,512,Windows 11 Home,Intel Core 5,15.6,NaN,3.9
+DELL,NaN,16,512,Windows 1,Intel Core 3,15.6,65990,3.9
+HP,Omnibook 3,16,512,Windows 11 Home,Snapdragon X,14,72990,4.3
+Samsung,Galaxy Book4 Edge Series,16,512,NaN,Snapdragon X,15.6,71990,4.4
+Acer,Aspire,12,512,Windows 11 Home,Intel Celeron Dual Core,14,42250,3.8
+Acer,Aspire 3,8,256,Windows 11 Home,Intel Core i3,15.6,54999,4.2
+HP,NaN,16,512,Windows 11 Pro,AMD Ryzen 5 Quad Core,15.6,NaN,4.3
+Lenovo,NaN,4,256,Windows 10 Home,Intel Core i3,15.6,34990,5
+HP,HP 15,24,512,Windows 11 Home,Intel Core 5,15.6,77990,4.1
+HP,Omnibook 3,8,512,Windows 11 Home,Snapdragon X,14,63990,4.3
+DELL,Vostro 3530,16,512,Windows 11 Home,Intel Core i5,15.6,74508,3.9
+ASUS,Vivobook 14,16,512,NaN,Intel Core Ultra 5,14,84990,4.4
+ASUS,TUF Gaming A15,16,512,Windows 11 Home,AMD Ryzen 7,15.6,92990,4.4
+Acer,Aspire 14,8,256,Windows 11 Home,AMD Ryzen 5,14,37990,3.9
+ASUS,NaN,8,256,Windows 11 Home,AMD Ryzen 3 Dual Core,15.6,NaN,4
+ASUS,NaN,16,512,Windows 11 Home,Intel Core i5,16,77500,4.7
+Apple,MacBook Pro,24,1024,macOS Tahoe,Apple M5,14,263900,NaN
+Lenovo,NaN,8,512,Windows 11 Home,Intel Core i3,15.6,51990,3.9
+Samsung,Galaxy Book4 Metal,16,512,Windows 11 Home,Intel Core i5,15.6,64990,4.4
+Acer,Aspire 14,16,512,Windows 11 Home,Snapdragon X,14,56990,4.4
+ASUS,Vivobook 15,8,512,Windows 11 Home,Intel Core i5,15.6,67677,3.6
+HP,NaN,8,512,Windows 11 Home,AMD Ryzen 5 Quad Core,14,58990,4.3
+ASUS,Vivobook S16,16,512,NaN,Snapdragon X,16,72990,4.5
+ASUS,Vivobook 14,16,512,NaN,Snapdragon X,14,60990,4.4
+ASUS,NaN,16,512,Windows 11 Home,Intel Core i7,16,93999,4.3
+HP,NaN,8,512,Windows 11 Home,Intel Core i5,15.6,69990,4.2
+Acer,Aspire,16,512,Windows 11 Home,Intel Core i5,15.6,70000,3.5
+Apple,MacBook Air,24,1024,Tahoe,Apple M5,13.6,209900,4.7
+ASUS,ExpertBook P1,8,512,Windows 11 Home,Intel Core 3,15.6,50990,4.4
+Samsung,Galaxy Book4 Edge Series,16,512,NaN,Snapdragon X,15.6,71990,4.4
+HP,NaN,8,512,Windows 11 Home,AMD Ryzen 5 Hexa Core,15.6,58990,4.4
+HP,NaN,8,512,Windows 11 Pro,AMD Ryzen 3 Quad Core,15.6,50999,3.8
+HP,Omnibook 3,16,512,Windows 11 Home,Snapdragon X,14,72990,4.3
+MSI,Modern 14,8,512,Windows 11 Home,AMD Ryzen 5 Hexa Core,14,49990,4.3
+Lenovo,IdeaPad Slim 5,16,512,NaN,Intel Core Ultra 7,14,127299,NaN
+HP,NaN,16,512,NaN,Intel Core 7,14,83490,NaN
+HP,NaN,8,512,Windows 11 Home,Intel Core i3,15.6,58970,4.2
+ASUS,Vivobook Go 15,8,512,Windows 11 Home,AMD Ryzen 3,15.6,52990,NaN
+ASUS,TUF Gaming A15,16,512,Windows 11 Home,AMD Ryzen 7,15.6,92990,4.4
+HP,HP 15,24,512,Windows 11 Home,Intel Core 5,15.6,77990,4.1
+ASUS,Vivobook 15,8,512,Windows 11 Home,Intel Core i5,15.6,67677,3.6
+HP,NaN,8,512,Windows 11 Home,AMD Ryzen 5 Quad Core,14,58990,4.3
+Samsung,Galaxy Book4 Metal,16,512,Windows 11 Home,Intel Core i5,15.6,64990,4.4
+Acer,Aspire 14,16,512,Windows 11 Home,Snapdragon X,14,56990,4.4
+Apple,MacBook Pro,24,1024,macOS Tahoe,Apple M5,14,263900,NaN
+Lenovo,NaN,16,512,Windows 11 Home,Intel Core i5,14,74000,4
+HP,NaN,16,512,Windows 11 Home,Intel Core 5,14,85990,4.1
+ASUS,Vivobook 14,16,512,NaN,Intel Core Ultra 5,14,92990,4.4
+ASUS,Vivobook S16,16,512,NaN,Snapdragon X,16,72990,4.5
+ASUS,Vivobook 14,16,512,NaN,Snapdragon X,14,60990,4.4
+HP,NaN,8,512,Windows 11 Home,Intel Core i3,15.6,55990,4.3
+HP,NaN,8,512,DOS,AMD Ryzen 3 Dual Core,15.6,50990,4.1
+Samsung,Galaxy Book4 Edge Series,16,512,NaN,Snapdragon X,15.6,71990,4.4
+HP,Omnibook 3,16,512,Windows 11 Home,Snapdragon X,14,72990,4.3
+Lenovo,NaN,8,512,Windows 11 Home,Intel Core i5,14,88990,4
+DELL,Inspiron 3520,16,512,Windows 11 Home,Intel Core i5,15.6,73848,3.9
+HP,NaN,8,512,Windows 11 Home,AMD Ryzen 5 Hexa Core,15.6,58990,4.4
+HP,NaN,8,512,Windows 11 Pro,AMD Ryzen 3 Quad Core,15.6,50999,3.8
+HP,Omnibook 3,8,512,Windows 11 Home,Snapdragon X,14,63990,4.3
+HP,HP 15,24,512,Windows 11 Home,Intel Core 5,15.6,77990,4.1
+Apple,MacBook Air,24,1024,Tahoe,Apple M5,13.6,209900,4.7
+ASUS,TUF Gaming F16,16,512,Windows 11 Home,Intel Core 5,16,NaN,4
+ASUS,TUF Gaming A15,16,512,Windows 11 Home,AMD Ryzen 7,15.6,92990,4.4
+Acer,Aspire 14,8,256,Windows 11 Home,AMD Ryzen 5,14,37990,3.9
+HP,NaN,16,512,Windows 11 Home,Intel Core i5,15.6,78990,4.1
+HP,Omnibook 3,16,512,Windows 11 Home,Snapdragon X,14.1,NaN,4.3
+HP,NaN,16,512,Windows 11 Home,Intel Core i3,15.6,69990,4.1
+Lenovo,IdeaPad Slim 1,8,512,Windows 11 Home,AMD Ryzen 3 Dual Core,15.6,54970,4
+Samsung,Galaxy Book4 Metal,16,512,Windows 11 Home,Intel Core i5,15.6,64990,4.4
+Acer,Aspire 14,16,512,Windows 11 Home,Snapdragon X,14,56990,4.4
+HP,Omnibook 5,8,512,Windows 11 Home,Intel Core 5,14,107799,NaN
+Lenovo,NaN,16,512,Windows 11 Pro,Intel Core i5,14,119990,3.8
+ASUS,Vivobook S16,16,512,NaN,Snapdragon X,16,72990,4.5
+ASUS,Vivobook 14,16,512,NaN,Snapdragon X,14,60990,4.4
+HP,NaN,8,512,Windows 10 Home,AMD Ryzen 7 Octa Core,14,75990,4.1
+DELL,Inspiron 7430,8,256,Windows 11 Home,Intel Core i3,14,67490,4.1
+HP,Victus,16,512,Windows 11 Home,Intel Core i5,15.6,89990,4.2
+Lenovo,Legion 5,16,512,Windows 11 Home,Intel Core Ultra 9,15.1,264490,NaN
+Samsung,Galaxy Book4 Edge Series,16,512,NaN,Snapdragon X,15.6,71990,4.4
+HP,Omnibook 3,16,512,Windows 11 Home,Snapdragon X,14,72990,4.3
+Apple,NaN,8,512,Tahoe,Apple A18 Pro,13,78890,4.7
+ASUS,Vivobook S14,16,1024,NaN,Intel Core Ultra 7,14,149990,4.3
+HP,Omnibook 3,8,512,Windows 11 Home,Snapdragon X,14,63990,4.3
+HP,HP 15,24,512,Windows 11 Home,Intel Core 5,15.6,77990,4.1
+DELL,Vostro 3530,16,512,Windows 11 Home,Intel Core i5,15.6,74500,4
+HP,NaN,16,512,Windows 11 Home,Intel Core i3,15.6,71990,4
+HP,NaN,8,512,Windows 11 Home,AMD Ryzen 5 Hexa Core,15.6,59990,3.9
+Acer,Aspire,8,512,Windows 11 Home,AMD Ryzen 5,15.6,42990,NaN
+Samsung,Galaxy Book4 Metal,16,512,Windows 11 Home,Intel Core i5,15.6,64990,4.4
+Acer,Aspire 14,16,512,Windows 11 Home,Snapdragon X,14,56990,4.4
+HP,NaN,8,512,Windows 11 Home,Intel Core i5,15.6,73990,4.3
+Apple,MacBook Pro,36,2048,Tahoe,Apple M5 Max,14,399900,NaN
+ASUS,Vivobook S16,16,512,NaN,Snapdragon X,16,72990,4.5
+ASUS,Vivobook 14,16,512,NaN,Snapdragon X,14,60990,4.4
+MSI,NaN,16,1024,Windows 11 Home,Intel Core Ultra 7,14,88339,3.4
+DELL,DELL 16,16,512,Windows 11 Home,Intel Core Ultra 7,16,130855,NaN
+DELL,Inspiron 15,8,512,Windows 11 Home,Intel Core i5,15.6,72999,3.8
+Lenovo,NaN,16,512,Windows 11 Home,AMD Ryzen 7,14,95990,NaN
+ASUS,ExpertBook P1,8,512,Windows 11 Home,Intel Core 3,15.6,50990,4.4
+HP,Omnibook 3,16,512,Windows 11 Home,Snapdragon X,14,72990,4.3
+Acer,Aspire 3,16,512,Windows 11 Home,Intel Core i5,15.6,62490,NaN
+HP,HP 14,16,1024,Windows 11 Home,Intel Core Ultra 7,14,159899,NaN
+Samsung,Galaxy Book4 Edge Series,16,512,NaN,Snapdragon X,15.6,71990,4.4
+ASUS,TUF Gaming A15,16,512,Windows 11 Home,AMD Ryzen 7,15.6,92990,4.4
+ASUS,ROG Strix,32,1024,Windows 11 Home,Intel Core Ultra 9,18,389990,NaN
+Apple,NaN,8,256,Tahoe,Apple A18 Pro,13,79900,4.7
+Lenovo,LOQ,16,512,Windows 11 Home,Intel Core i5,15.6,109999,4
+ASUS,Vivobook Go 15,16,512,Windows 11 Home,AMD Ryzen 5 Quad Core,15.6,75999,4.4
+HP,HP 15,24,512,Windows 11 Home,Intel Core 5,15.6,77990,4.1
+MSI,Modern 14,8,512,Windows 11 Home,AMD Ryzen 5 Hexa Core,14,49990,4.3
+HP,HP 15,16,512,Windows 11 Pro,Intel Core 3,15.6,57990,NaN
+HP,Omnibook 5,16,512,Windows 11 Home,Intel Core Ultra 5,16,99990,NaN
